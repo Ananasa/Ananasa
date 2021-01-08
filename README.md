@@ -14,6 +14,8 @@ I'm Mohamed. You can mostly find me on [LinkedIn](https://www.linkedin.com/in/an
 - ⚡ Fun fact: I almost drowned 5 times!
 - 😄 Hobby: Scuba Diving Specially GUE
 
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:mohameday@hotmail.com) 
+
 <!--
 **Ananasa/Ananasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
