@@ -7,7 +7,7 @@ I'm Mohamed Ashraf Ananasa. A Senior Front-End Engineer specialized in designing
 - 📫 I offer front-end development, web design. You can hire me via [Upwork](https://www.upwork.com/freelancers/mohamedashrafananasa).
 - 📍 Giza, EG.
 - 😄 Pronouns: Ananasa aka. PineApple
-- ⚡ Fun fact: I almost drowned 5 times!
+- ⚡ Fun fact: I'm still diving and coming after I blacked out at 42 meters deep in the red sea while Tech Diving because I was rescued by my buddy from a near death experience event. 
 
 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:mohameday@live.com) 
