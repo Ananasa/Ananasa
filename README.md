@@ -2,7 +2,7 @@
 
 I'm Mohamed Ashraf Ananasa. A Senior Front-End Engineer specialized in designing, creation and implementation of innovative responsive web / mobile applications that deliver improved functionality and smooth user experience.
 
-- 🌱 I’m currently learning on [Masters.Dev](https://master.dev/)
+- 🌱 I’m currently studying on [Masters.Dev](https://master.dev/)
 - 💬 You can mostly find me on [LinkedIn](https://www.linkedin.com/in/ananasa) or [Twitter](https://twitter.com/@MohamedAnanasa).
 - 📫 I offer front-end development, web design. You can hire me via [Upwork](https://www.upwork.com/freelancers/mohamedashrafananasa).
 - 👯 I’m training for my first Full Marathon ...
